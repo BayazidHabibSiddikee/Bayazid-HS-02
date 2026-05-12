@@ -1,1 +1,0 @@
-# Bayazid-HS-02
