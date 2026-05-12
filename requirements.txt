@@ -14,3 +14,10 @@ langchain-google-genai
 langchain-community
 pypdf
 langchain-huggingface
+langchain-text-spliders
+langchain-core
+langchain-openai
+langsmith
+lxml
+markdown2
+python-dotenv
