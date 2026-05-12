@@ -56,7 +56,7 @@ bayazid-hs02/
 ├── main.py             # FastAPI server — routes, endpoints, streaming
 ├── classifier.py       # Regex intent classifier — zero RAM, instant routing
 ├── config.py           # Shared constants — model, port, paths
-│
+│__ doc/                # A bookshelve
 ├── templates/
 │   ├── index.html      # Landing page / dashboard (KaTeX + stats)
 │   ├── chat.html       # Main chat interface (all modes, timer, quiz UI)
