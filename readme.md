@@ -84,7 +84,7 @@ Pull the models before starting:
 
 ```bash
 # Primary model — used for all AI responses
-ollama pull llama3.2:3b
+ollama pull gemma4:31b
 
 # Fast model — used for quiz generation and quick tasks
 ollama pull qwen2.5:0.5b
