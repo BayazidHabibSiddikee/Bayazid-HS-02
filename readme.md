@@ -6,9 +6,9 @@
 A locally-running AI assistant built for engineers and self-directed learners.
 Teaches, quizzes, reviews code, tracks focus sessions, and renders LaTeX math — all served from your own machine via a FastAPI backend and a **Black & Purple "Sword King"** web interface.
 
-![Chat Interface](static/chat.png)
-![Quiz Mode](static/quiz.png)
-![Profile Page](static/profile.png)
+![Chat Interface](static/uploads/chat.png)
+![Quiz Mode](static/uploads/quiz.png)
+![Profile Page](static/uploads/profile.png)
 
 ---
 
@@ -388,7 +388,7 @@ StreamingResponse      — Chunks streamed to browser as they generate
     ▼
 chat.html              — renderMarkdown() + KaTeX renders the response live
 ```
-![Profile Page](static/vpa_architecture.svg)
+![Architecure](static/uploads/vpa_architecture.svg)
 
 ---
 
